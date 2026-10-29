@@ -1,0 +1,1 @@
+Open-source fully local voice cloning, voice design, dubbing, dictation, transcription, and audiobook creation across 646 languages.
