@@ -138,3 +138,7 @@ Support development: [Ko-fi](https://ko-fi.com/debpalash) · [PayPal](https://pa
 ## License & responsible use
 
 [AGPL-3.0](LICENSE). Models have their own licenses; review them before commercial use. Clone voices only with permission. See [license details](LICENSE-NOTICE.md).
+
+## Repository truth
+
+Current identity, authority boundaries, and the proposed GitHub About text are tracked in [`docs/repository-truth.md`](docs/repository-truth.md). Historical status records remain historical; live GitHub and current authoritative contracts override stale prose.
